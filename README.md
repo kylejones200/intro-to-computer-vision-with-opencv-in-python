@@ -1,7 +1,7 @@
 # Intro to Computer Vision with OpenCV in Python
 
-**Published:** 2024-01-03
-**Medium:** [https://medium.com/@kyle-t-jones/intro-to-computer-vision-with-opencv-in-python-628eb9fca2db](https://medium.com/@kyle-t-jones/intro-to-computer-vision-with-opencv-in-python-628eb9fca2db)
+Published: 2024-01-03
+Medium: [https://medium.com/@kyle-t-jones/intro-to-computer-vision-with-opencv-in-python-628eb9fca2db](https://medium.com/@kyle-t-jones/intro-to-computer-vision-with-opencv-in-python-628eb9fca2db)
 
 ## About
 
