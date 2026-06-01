@@ -11,14 +11,7 @@ OpenCV provides a wide range of functions and algorithms that can be used for va
 
 OpenCV is released under the BSD license, which means it is free to use and distribute, even in commercial applications.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
